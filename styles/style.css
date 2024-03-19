@@ -217,16 +217,6 @@ main {
     position: relative;
 
 }
-/* .kamar-card {
-    
-} */
-.kamar-card:hover {
-    
-    .kamar-img img {
-        width: 19vw;
-        
-    }
-}
 
 .kamar-img img {
     width: 18vw;
